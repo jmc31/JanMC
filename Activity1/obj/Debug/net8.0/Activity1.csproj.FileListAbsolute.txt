@@ -1,0 +1,14 @@
+D:\JMC\Activity1\bin\Debug\net8.0\Activity1.exe
+D:\JMC\Activity1\bin\Debug\net8.0\Activity1.deps.json
+D:\JMC\Activity1\bin\Debug\net8.0\Activity1.runtimeconfig.json
+D:\JMC\Activity1\bin\Debug\net8.0\Activity1.dll
+D:\JMC\Activity1\bin\Debug\net8.0\Activity1.pdb
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.AssemblyInfoInputs.cache
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.AssemblyInfo.cs
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.csproj.CoreCompileInputs.cache
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.dll
+D:\JMC\Activity1\obj\Debug\net8.0\refint\Activity1.dll
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.pdb
+D:\JMC\Activity1\obj\Debug\net8.0\Activity1.genruntimeconfig.cache
+D:\JMC\Activity1\obj\Debug\net8.0\ref\Activity1.dll
