@@ -1,0 +1,14 @@
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.GeneratedMSBuildEditorConfig.editorconfig
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.AssemblyInfoInputs.cache
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.AssemblyInfo.cs
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.csproj.CoreCompileInputs.cache
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\bin\Debug\net8.0\Assignment Quiz 1.exe
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\bin\Debug\net8.0\Assignment Quiz 1.deps.json
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\bin\Debug\net8.0\Assignment Quiz 1.runtimeconfig.json
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\bin\Debug\net8.0\Assignment Quiz 1.dll
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\bin\Debug\net8.0\Assignment Quiz 1.pdb
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.dll
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\refint\Assignment Quiz 1.dll
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.pdb
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\Assignment Quiz 1.genruntimeconfig.cache
+J:\JanMichCabahug\Assignment Quiz 1\Assignment Quiz 1\obj\Debug\net8.0\ref\Assignment Quiz 1.dll
