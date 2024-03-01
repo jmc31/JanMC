@@ -1,0 +1,14 @@
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\bin\Debug\net8.0\Assignment or Quiz2.exe
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\bin\Debug\net8.0\Assignment or Quiz2.deps.json
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\bin\Debug\net8.0\Assignment or Quiz2.runtimeconfig.json
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\bin\Debug\net8.0\Assignment or Quiz2.dll
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\bin\Debug\net8.0\Assignment or Quiz2.pdb
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.AssemblyInfoInputs.cache
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.AssemblyInfo.cs
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.csproj.CoreCompileInputs.cache
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.dll
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\refint\Assignment or Quiz2.dll
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.pdb
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\Assignment or Quiz2.genruntimeconfig.cache
+J:\JanMichCabahug\Assignment or Quiz2\Assignment or Quiz2\obj\Debug\net8.0\ref\Assignment or Quiz2.dll
